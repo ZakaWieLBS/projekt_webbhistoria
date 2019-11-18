@@ -49,3 +49,7 @@ body {
 .HelaSidan img {
   width: 100%;
 }
+.wikicopia {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
